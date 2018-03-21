@@ -1,1 +1,1 @@
-web: gunicorn 'citrine_challenge.wsgi.application
+web: gunicorn citrine_challenge.wsgi.application
